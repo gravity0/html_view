@@ -39,8 +39,16 @@ nav {
 div.search_form {
     margin: 10px;
 }
+
+div.scroll_btn {
+    top: 80%;
+    right: 10%;
+    position: fixed;
+}
+
 input {
     width: 100%;
+    right: 0;
 }
 
 nav button.search_tool_switch {
