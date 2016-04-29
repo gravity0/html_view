@@ -1,0 +1,48 @@
+
+body {
+    background-color: #AFDF1F;
+}
+
+h1 {
+    font-size: 25px;
+    color: #1AC12F;
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: 0px;
+    font-weight: 100;
+    color: #3CC94E;
+    border: medium solid #DD5D95;
+    padding: 5px;    
+}
+
+div#container {
+    position: relative;
+    margin: 20 100px;
+}
+
+div#content {
+    position: absolute;
+    margin-left: 250px;
+    background-color: #FFFFFF;
+    padding: 20px 20px;
+}
+
+nav {
+    background-color: #FFFFAA;
+    position: absolute;
+    margin-right: 30px;
+    width: 240px;
+}
+
+div.search_form {
+    margin: 10px;
+}
+input {
+    width: 100%;
+}
+
+nav button.search_tool_switch {
+    margin: 10px;
+}
